@@ -1,1 +1,1 @@
-# nicknamesite
+# applicationScope
